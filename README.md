@@ -9,3 +9,4 @@ Help an organization to improve employee performance and improve employee retent
 
 
 Dashboard
+https://github.com/IshitaGhosh52/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard
